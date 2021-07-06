@@ -1,2 +1,2 @@
-# postgres python library
- A python library for interfacting and querying a Postgres databadse
+# Postgres Python library
+ A Python library for interfacing and querying Postgres databases
