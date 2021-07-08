@@ -1,6 +1,0 @@
-README.md
-setup.py
-pypostgresql.egg-info/PKG-INFO
-pypostgresql.egg-info/SOURCES.txt
-pypostgresql.egg-info/dependency_links.txt
-pypostgresql.egg-info/top_level.txt
